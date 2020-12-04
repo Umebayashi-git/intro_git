@@ -3,3 +3,4 @@ Nihongo Tsukaenai??
 Version2 Git File Commit
 Version3
 git status
+git diff
